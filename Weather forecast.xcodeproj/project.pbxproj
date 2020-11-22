@@ -24,6 +24,8 @@
 		20FD2CAD256A424B004C18F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20FD2CB0256A424B004C18F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20FD2CB2256A424B004C18F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20FD2CBA256A447C004C18F9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		20FD2CBE256A44C3004C18F9 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,8 @@
 		20FD2C98256A4248004C18F9 = {
 			isa = PBXGroup;
 			children = (
+				20FD2CBE256A44C3004C18F9 /* .gitignore */,
+				20FD2CBA256A447C004C18F9 /* README.md */,
 				20FD2CA3256A4248004C18F9 /* Weather forecast */,
 				20FD2CA2256A4248004C18F9 /* Products */,
 			);
